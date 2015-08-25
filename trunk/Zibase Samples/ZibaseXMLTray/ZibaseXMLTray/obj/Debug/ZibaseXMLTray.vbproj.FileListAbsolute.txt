@@ -1,0 +1,13 @@
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\bin\Debug\ZibaseXMLTray.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\bin\Debug\ZibaseXMLTray.pdb
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\bin\Debug\ZibaseXMLTray.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\bin\Debug\ZibaseDll.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\bin\Debug\ZibaseDll.pdb
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ZibaseXMLTray.frmMain.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ZibaseXMLTray.Resources.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ZibaseXMLTray.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ZibaseXMLTray.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ZibaseXMLTray.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Debug\ZibaseXMLTray.pdb

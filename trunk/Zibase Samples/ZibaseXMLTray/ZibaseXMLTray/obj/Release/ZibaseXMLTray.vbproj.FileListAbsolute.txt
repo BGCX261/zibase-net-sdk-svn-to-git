@@ -1,0 +1,10 @@
+C:\Projects\Zibase\bin\ZibaseXMLTray.exe
+C:\Projects\Zibase\bin\ZibaseXMLTray.pdb
+C:\Projects\Zibase\bin\ZibaseXMLTray.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ZibaseXMLTray.frmMain.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ZibaseXMLTray.Resources.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ZibaseXMLTray.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ZibaseXMLTray.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ZibaseXMLTray.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseXMLTray\ZibaseXMLTray\obj\Release\ZibaseXMLTray.pdb

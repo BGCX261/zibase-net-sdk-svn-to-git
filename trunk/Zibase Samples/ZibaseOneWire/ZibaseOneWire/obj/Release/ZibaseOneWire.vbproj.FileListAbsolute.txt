@@ -1,0 +1,10 @@
+C:\Projects\Zibase\bin\ZibaseOneWire.exe
+C:\Projects\Zibase\bin\ZibaseOneWire.pdb
+C:\Projects\Zibase\bin\ZibaseOneWire.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ZibaseOneWire.frmMain.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ZibaseOneWire.Resources.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ZibaseOneWire.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ZibaseOneWire.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ZibaseOneWire.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Release\ZibaseOneWire.pdb

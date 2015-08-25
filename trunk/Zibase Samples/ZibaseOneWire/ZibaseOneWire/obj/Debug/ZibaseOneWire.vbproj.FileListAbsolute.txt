@@ -1,0 +1,13 @@
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\bin\Debug\ZibaseOneWire.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\bin\Debug\ZibaseOneWire.pdb
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\bin\Debug\ZibaseOneWire.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\bin\Debug\OneWireAPI.NET.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\bin\Debug\ZibaseDll.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\bin\Debug\ZibaseDll.pdb
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ZibaseOneWire.frmMain.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ZibaseOneWire.Resources.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ZibaseOneWire.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ZibaseOneWire.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ZibaseOneWire.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseOneWire\ZibaseOneWire\obj\Debug\ZibaseOneWire.pdb

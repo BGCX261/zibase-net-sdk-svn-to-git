@@ -1,0 +1,12 @@
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\bin\Debug\Console.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\bin\Debug\Console.pdb
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\bin\Debug\Console.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\bin\Debug\ZibaseDll.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\bin\Debug\ZibaseDll.pdb
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\Console.Form1.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\Console.Resources.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\ZibaseConsole.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\Console.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\Console.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseConsole\ZibaseConsole\obj\Debug\Console.pdb

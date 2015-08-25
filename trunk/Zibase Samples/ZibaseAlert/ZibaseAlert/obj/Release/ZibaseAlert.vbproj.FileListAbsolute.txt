@@ -1,0 +1,15 @@
+C:\Projects\Zibase\bin\ZibaseAlert.exe
+C:\Projects\Zibase\bin\ZibaseAlert.pdb
+C:\Projects\Zibase\bin\ZibaseAlert.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\Interop.AXVLC.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\Interop.WMPLib.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\AxInterop.AXVLC.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\AxInterop.WMPLib.dll
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.vbproj.ResolveComReference.cache
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.frmMain.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.Resources.resources
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.exe
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.xml
+C:\Projects\Zibase\Zibase Samples\ZibaseAlert\ZibaseAlert\obj\Release\ZibaseAlert.pdb

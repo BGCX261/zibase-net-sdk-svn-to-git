@@ -1,0 +1,9 @@
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\bin\Release\ZibaseDll.dll
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\bin\Release\ZibaseDll.pdb
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\obj\Release\ZibaseDll.Resources.resources
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\obj\Release\ZibaseDll.vbproj.GenerateResource.Cache
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\obj\Release\ZibaseDll.dll
+C:\Projects\Zibase\ZibaseDll\ZibaseDll\obj\Release\ZibaseDll.pdb
+C:\Projects\bin\ZibaseDll.dll
+C:\Projects\bin\ZibaseDll.pdb
